@@ -1,2 +1,2 @@
-# Floppy-Bird-Game
-🕹️ Dive into the addictive world of Flappy Bird! 🐦 Tap your way through a series of obstacles as you guide your bird to navigate the treacherous sky. 🌟 Test your reflexes and concentration in this challenging yet fun adventure. 🏆 Can you beat your high score and become the ultimate Flappy Bird champion? 
+# Bird-Fly-Game
+Bird Fly Game: Soar through vibrant landscapes, dodge obstacles, and collect rewards. Experience exhilarating gameplay in this addictive avian adventure
