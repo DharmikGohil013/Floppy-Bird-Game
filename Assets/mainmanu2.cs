@@ -10,4 +10,8 @@ public class mainmanu2 : MonoBehaviour
     {
         Application.Quit();
     }
+    public void BACKTHEGAME()
+    {
+        SceneManager.LoadSceneAsync(0);
+    }
 }
